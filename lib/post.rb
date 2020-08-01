@@ -19,6 +19,9 @@ class Post
   end
 
 def name
+  if !author
+    return 
+    nil
 
 end
     # binding.pry
