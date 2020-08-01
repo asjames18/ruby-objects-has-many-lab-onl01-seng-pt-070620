@@ -19,8 +19,7 @@ class Post
   end
 
 def name
-@name
-
+nil
 binding.pry
 
 end
