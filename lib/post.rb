@@ -22,6 +22,7 @@ def name
 if author.name
   return
   nil
+end
 # binding.pry
 
 end
