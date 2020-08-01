@@ -17,6 +17,7 @@ end
 
 def artist_name
   artist = Artist.name
+  binding.pry
 
 end
 
