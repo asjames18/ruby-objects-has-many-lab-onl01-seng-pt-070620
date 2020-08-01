@@ -18,8 +18,8 @@ class Post
     author.name
   end
 
-def self.name
-  if !author
+def name
+  if self.author
     return
     nil
   end
