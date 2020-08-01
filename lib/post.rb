@@ -19,7 +19,7 @@ class Post
   end
 
 def name
-self.author
+@name
 
 binding.pry
 
