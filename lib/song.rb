@@ -16,9 +16,8 @@ def self.all
 end
 
 def artist_name
-  if self.artist
-    self.artist.name
-  end
+  self.artist.name
+
 end
 
 # binding.pry
