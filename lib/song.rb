@@ -16,8 +16,8 @@ def self.all
 end
 
 def artist_name
-  artist = Artist.name
-  binding.pry
+  name = Artist.new
+  
 
 end
 
