@@ -15,12 +15,12 @@ class Post
 
   def author_name
     author.name
-    binding.pry
+    # binding.pry
   end
 
 def name
 nil
-binding.pry
+# binding.pry
 
 end
 end
