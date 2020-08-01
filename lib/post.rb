@@ -19,10 +19,7 @@ class Post
   end
 
 def name
-  if self.author
-    return
-    nil
-  end
+self.author
 
 end
     # binding.pry
