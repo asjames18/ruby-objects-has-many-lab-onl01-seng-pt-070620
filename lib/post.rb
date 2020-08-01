@@ -19,8 +19,6 @@ class Post
   end
 
 def name
-author
-
 end
 # binding.pry
 
