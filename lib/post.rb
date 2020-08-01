@@ -20,7 +20,7 @@ class Post
 
 def name
 if author.name
-  return 
+  return
   nil
 # binding.pry
 
