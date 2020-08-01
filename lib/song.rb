@@ -16,6 +16,7 @@ def self.all
 end
 
 def artist_name
+  Artist.new
 
 end
 
