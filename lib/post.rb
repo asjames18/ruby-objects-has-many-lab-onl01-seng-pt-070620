@@ -20,7 +20,7 @@ class Post
 
 def name
 self.author
+binding.pry
 
 end
-    # binding.pry
 end
