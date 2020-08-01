@@ -14,12 +14,14 @@ class Post
   end
 
   def author_name
-    if author.name\
+    author.name
     # binding.pry
   end
 
 def name
-nil
+if author.name
+  return 
+  nil
 # binding.pry
 
 end
